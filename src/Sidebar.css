@@ -1,0 +1,16 @@
+.sidebar:hover {
+  overflow-x: hidden;
+}
+.hr {
+  color: lightgray;
+  margin: 15px 0;
+  background-color: lightgray;
+  height: 1px;
+}
+.subscription h2 {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+  margin-left: 1.4rem;
+  color: rgb(95, 95, 95);
+  font-weight: bolder;
+}

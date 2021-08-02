@@ -1,0 +1,30 @@
+.videoCard {
+  width: 270px;
+  margin-top: 20px;
+
+  cursor: pointer;
+}
+.image {
+  object-fit: contain;
+  /* height: 140px; */
+  width: 260px;
+}
+.videoInfo {
+  display: flex;
+  margin-left: 1rem;
+  margin-top: 4px;
+}
+.videoText {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.videoText h3 {
+  font-size: 1rem;
+  font-weight: bolder;
+}
+.desc {
+  margin-top: 0.4em;
+  font-size: 0.9rem;
+  color: rgb(102, 102, 102);
+  font-weight: bold;
+}

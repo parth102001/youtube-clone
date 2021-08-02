@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap");
+.sidebarRow {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.sidebarRow.selected {
+  background-color: lightgray;
+}
+.sidebarRow.selected .icon {
+  color: red;
+}
+.sidebarRow:hover {
+  background-color: lightgray;
+}
+.icon {
+  color: rgb(95, 95, 95);
+  font-size: 0.8rem;
+}
+.sidebarRow h2 {
+  font-size: 1rem;
+  padding-left: 1.3rem;
+  font-weight: bolder;
+  font-family: "Barlow", sans-serif;
+}
+

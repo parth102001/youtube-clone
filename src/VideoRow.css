@@ -1,0 +1,13 @@
+.hr {
+  color: rgb(233, 233, 233);
+  height: 1px;
+  border: none;
+  margin: 0 10px;
+}
+.videoComponent {
+  background-color: #f7f7f7;
+  margin-top: 15px;
+  padding-left: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
